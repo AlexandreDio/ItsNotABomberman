@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153441710269",
+    "firebase_url": "https://its-not-a-bomberman.firebaseio.com",
+    "project_id": "its-not-a-bomberman",
+    "storage_bucket": "its-not-a-bomberman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153441710269:android:60bb95643898e37d",
+        "android_client_info": {
+          "package_name": "com.Company.ProductName"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153441710269-96uagr886ns6seovg6g93i6mje152b4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBkSo_0OlBPIf7LozmzBDIjnVSbq2bMQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153441710269-96uagr886ns6seovg6g93i6mje152b4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

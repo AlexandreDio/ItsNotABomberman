@@ -9,6 +9,7 @@ TagManager:
   - UpVelocidade
   - Indestrutivel
   - explosao
+  - Destrutivel
   layers:
   - Default
   - TransparentFX

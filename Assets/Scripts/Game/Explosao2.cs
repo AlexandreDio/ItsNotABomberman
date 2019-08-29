@@ -5,7 +5,7 @@ using UnityEngine.Networking;
 
 public class Explosao2 : NetworkBehaviour
 {
-    public GameObject Destruivel;
+    public GameObject Destrutivel;
 
     // Start is called before the first frame update
     void Start()
@@ -32,7 +32,7 @@ public class Explosao2 : NetworkBehaviour
     public void OnCollisionEnter2D(Collision2D collision)
     {
         //if (collision.gameObject.CompareTag("Destruivel") || collision.gameObject.CompareTag("Player"))
-        if (collision.gameObject.CompareTag("Destruivel"))
+        if (collision.gameObject.CompareTag("Player"))
         {
             print("Quero cu");
             //Destruivel.SetActive(false);
@@ -44,5 +44,12 @@ public class Explosao2 : NetworkBehaviour
         //}
     }
 
-
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Destrutivel"))
+        {
+            print("Destruindo os blocos com o Script Explosao2.cs");
+            Destroy(collision.gameObject);
+        }
+    }
 }

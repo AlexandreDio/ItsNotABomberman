@@ -60,11 +60,11 @@ public class Bomba2 : MonoBehaviour
         GetComponent<BoxCollider2D>().isTrigger = false;
     }
 
-    //private void OnTriggerEnter2D(Collider2D outro)
-    //{
-    //    if (outro.gameObject.CompareTag("Destruivel"))
-    //    {
-    //        Debug.Log("Quero cu");
-    //    }
-    //}
+    private void OnTriggerEnter2D(Collider2D outro)
+    {
+        if (outro.gameObject.CompareTag("Destruivel"))
+        {
+           Debug.Log("passeiiiiiiii");
+        }
+    }
 }

@@ -195,6 +195,12 @@ public class Player : NetworkBehaviour
             }
         }
 
+        //if (collision.gameObject.CompareTag("Destrutivel"))
+        //{
+        //    print("Colidindo com o bloco-fog no Trigger do Player");
+        //    Destroy(collision.gameObject);
+        //}
+
     }
 
     public IEnumerator Tempo()

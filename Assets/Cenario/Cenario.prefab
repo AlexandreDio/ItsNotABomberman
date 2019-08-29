@@ -117,9 +117,10 @@ GameObject:
   - component: {fileID: 2896801191703960248}
   - component: {fileID: 2896801191703960262}
   - component: {fileID: 2896801191703960263}
+  - component: {fileID: 3973512155720918632}
   m_Layer: 0
   m_Name: bloco fogo 2D (37)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -212,6 +213,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4403112, y: 1.4042497}
   m_EdgeRadius: 0
+--- !u!50 &3973512155720918632
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191703960249}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191724657557
 GameObject:
   m_ObjectHideFlags: 0
@@ -435,9 +457,10 @@ GameObject:
   - component: {fileID: 2896801191733273210}
   - component: {fileID: 2896801191733273208}
   - component: {fileID: 2896801191733273209}
+  - component: {fileID: 2246049801028557461}
   m_Layer: 0
   m_Name: bloco fogo 2D (139)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -530,6 +553,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4492588, y: 1.4167581}
   m_EdgeRadius: 0
+--- !u!50 &2246049801028557461
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191733273211}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191744411183
 GameObject:
   m_ObjectHideFlags: 0
@@ -647,9 +691,10 @@ GameObject:
   - component: {fileID: 2896801191774745149}
   - component: {fileID: 2896801191774745147}
   - component: {fileID: 2896801191774745148}
+  - component: {fileID: 7376060095865665481}
   m_Layer: 0
   m_Name: bloco fogo 2D (114)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -742,6 +787,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4403112, y: 1.4042497}
   m_EdgeRadius: 0
+--- !u!50 &7376060095865665481
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191774745150}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191776566380
 GameObject:
   m_ObjectHideFlags: 0
@@ -859,9 +925,10 @@ GameObject:
   - component: {fileID: 2896801191778005933}
   - component: {fileID: 2896801191778005931}
   - component: {fileID: 2896801191778005932}
+  - component: {fileID: 9171226535103386105}
   m_Layer: 0
   m_Name: bloco fogo 2D (65)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -954,6 +1021,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &9171226535103386105
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191778005934}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191805483424
 GameObject:
   m_ObjectHideFlags: 0
@@ -965,9 +1053,10 @@ GameObject:
   - component: {fileID: 2896801191805483439}
   - component: {fileID: 2896801191805483437}
   - component: {fileID: 2896801191805483438}
+  - component: {fileID: 8290763186741473152}
   m_Layer: 0
   m_Name: bloco fogo 2D (119)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1060,6 +1149,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4309801, y: 1.3973551}
   m_EdgeRadius: 0
+--- !u!50 &8290763186741473152
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191805483424}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191826518020
 GameObject:
   m_ObjectHideFlags: 0
@@ -1177,9 +1287,10 @@ GameObject:
   - component: {fileID: 2896801191827135336}
   - component: {fileID: 2896801191827135350}
   - component: {fileID: 2896801191827135351}
+  - component: {fileID: 5638231029984347198}
   m_Layer: 0
   m_Name: bloco fogo 2D (133)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1272,6 +1383,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &5638231029984347198
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191827135337}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191838284383
 GameObject:
   m_ObjectHideFlags: 0
@@ -1283,9 +1415,10 @@ GameObject:
   - component: {fileID: 2896801191838284382}
   - component: {fileID: 2896801191838284380}
   - component: {fileID: 2896801191838284381}
+  - component: {fileID: 377499765010465440}
   m_Layer: 0
   m_Name: bloco fogo 2D (39)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1378,6 +1511,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4487721, y: 1.4035192}
   m_EdgeRadius: 0
+--- !u!50 &377499765010465440
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191838284383}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191841082978
 GameObject:
   m_ObjectHideFlags: 0
@@ -1389,9 +1543,10 @@ GameObject:
   - component: {fileID: 2896801191841082977}
   - component: {fileID: 2896801191841082991}
   - component: {fileID: 2896801191841082976}
+  - component: {fileID: 490620065760285615}
   m_Layer: 0
   m_Name: bloco fogo 2D (91)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1484,6 +1639,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4414039, y: 1.3952751}
   m_EdgeRadius: 0
+--- !u!50 &490620065760285615
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191841082978}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191858869247
 GameObject:
   m_ObjectHideFlags: 0
@@ -1601,9 +1777,10 @@ GameObject:
   - component: {fileID: 2896801191860456414}
   - component: {fileID: 2896801191860456412}
   - component: {fileID: 2896801191860456413}
+  - component: {fileID: 8809969479726204445}
   m_Layer: 0
   m_Name: bloco fogo 2D (124)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1696,6 +1873,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4274769, y: 1.410017}
   m_EdgeRadius: 0
+--- !u!50 &8809969479726204445
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191860456415}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191897835386
 GameObject:
   m_ObjectHideFlags: 0
@@ -1813,9 +2011,10 @@ GameObject:
   - component: {fileID: 2896801191914670714}
   - component: {fileID: 2896801191914670712}
   - component: {fileID: 2896801191914670713}
+  - component: {fileID: 1881940893681990397}
   m_Layer: 0
   m_Name: bloco fogo 2D (64)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1908,6 +2107,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4309801, y: 1.3973551}
   m_EdgeRadius: 0
+--- !u!50 &1881940893681990397
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191914670715}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191933917691
 GameObject:
   m_ObjectHideFlags: 0
@@ -2025,9 +2245,10 @@ GameObject:
   - component: {fileID: 2896801191946594937}
   - component: {fileID: 2896801191946594951}
   - component: {fileID: 2896801191946594936}
+  - component: {fileID: 5326606328574550191}
   m_Layer: 0
   m_Name: bloco fogo 2D (22)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2120,6 +2341,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4274769, y: 1.410017}
   m_EdgeRadius: 0
+--- !u!50 &5326606328574550191
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191946594938}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191949141820
 GameObject:
   m_ObjectHideFlags: 0
@@ -2131,9 +2373,10 @@ GameObject:
   - component: {fileID: 2896801191949141819}
   - component: {fileID: 2896801191949141817}
   - component: {fileID: 2896801191949141818}
+  - component: {fileID: 6729563957759679661}
   m_Layer: 0
   m_Name: bloco fogo 2D (72)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2226,6 +2469,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4325376, y: 1.432538}
   m_EdgeRadius: 0
+--- !u!50 &6729563957759679661
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191949141820}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191952530517
 GameObject:
   m_ObjectHideFlags: 0
@@ -2343,9 +2607,10 @@ GameObject:
   - component: {fileID: 2896801191963351428}
   - component: {fileID: 2896801191963351426}
   - component: {fileID: 2896801191963351427}
+  - component: {fileID: 1996202560277527977}
   m_Layer: 0
   m_Name: bloco fogo 2D (27)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2438,6 +2703,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4487721, y: 1.4035192}
   m_EdgeRadius: 0
+--- !u!50 &1996202560277527977
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191963351429}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191978208520
 GameObject:
   m_ObjectHideFlags: 0
@@ -2449,9 +2735,10 @@ GameObject:
   - component: {fileID: 2896801191978208535}
   - component: {fileID: 2896801191978208533}
   - component: {fileID: 2896801191978208534}
+  - component: {fileID: 7926407322304444580}
   m_Layer: 0
   m_Name: bloco fogo 2D (145)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2544,6 +2831,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &7926407322304444580
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191978208520}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191981802503
 GameObject:
   m_ObjectHideFlags: 0
@@ -2555,9 +2863,10 @@ GameObject:
   - component: {fileID: 2896801191981802502}
   - component: {fileID: 2896801191981802500}
   - component: {fileID: 2896801191981802501}
+  - component: {fileID: 2952891477971541039}
   m_Layer: 0
   m_Name: bloco fogo 2D (142)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2650,6 +2959,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4309801, y: 1.3973551}
   m_EdgeRadius: 0
+--- !u!50 &2952891477971541039
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191981802503}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191994059841
 GameObject:
   m_ObjectHideFlags: 0
@@ -2873,9 +3203,10 @@ GameObject:
   - component: {fileID: 2896801191998503830}
   - component: {fileID: 2896801191998503828}
   - component: {fileID: 2896801191998503829}
+  - component: {fileID: 4840498529488844058}
   m_Layer: 0
   m_Name: bloco fogo 2D (71)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2968,6 +3299,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4492588, y: 1.4167581}
   m_EdgeRadius: 0
+--- !u!50 &4840498529488844058
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801191998503831}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801191999047002
 GameObject:
   m_ObjectHideFlags: 0
@@ -3085,9 +3437,10 @@ GameObject:
   - component: {fileID: 2896801192001910872}
   - component: {fileID: 2896801192001910886}
   - component: {fileID: 2896801192001910887}
+  - component: {fileID: 2894826523986624313}
   m_Layer: 0
   m_Name: bloco fogo 2D (36)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3180,6 +3533,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4179363, y: 1.4156313}
   m_EdgeRadius: 0
+--- !u!50 &2894826523986624313
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192001910873}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192010862395
 GameObject:
   m_ObjectHideFlags: 0
@@ -3191,9 +3565,10 @@ GameObject:
   - component: {fileID: 2896801192010862394}
   - component: {fileID: 2896801192010862392}
   - component: {fileID: 2896801192010862393}
+  - component: {fileID: 1814468692012917383}
   m_Layer: 0
   m_Name: bloco fogo 2D (109)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3286,6 +3661,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4309801, y: 1.3973551}
   m_EdgeRadius: 0
+--- !u!50 &1814468692012917383
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192010862395}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192016624270
 GameObject:
   m_ObjectHideFlags: 0
@@ -3403,9 +3799,10 @@ GameObject:
   - component: {fileID: 2896801192019163583}
   - component: {fileID: 2896801192019163581}
   - component: {fileID: 2896801192019163582}
+  - component: {fileID: 5830826609893510083}
   m_Layer: 0
   m_Name: bloco fogo 2D (116)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3498,6 +3895,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4487721, y: 1.4035192}
   m_EdgeRadius: 0
+--- !u!50 &5830826609893510083
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192019163568}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192047815618
 GameObject:
   m_ObjectHideFlags: 0
@@ -3615,9 +4033,10 @@ GameObject:
   - component: {fileID: 2896801192050684052}
   - component: {fileID: 2896801192050684050}
   - component: {fileID: 2896801192050684051}
+  - component: {fileID: 6433312463947242008}
   m_Layer: 0
   m_Name: bloco fogo 2D (70)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3710,6 +4129,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4403112, y: 1.4042497}
   m_EdgeRadius: 0
+--- !u!50 &6433312463947242008
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192050684053}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192062039078
 GameObject:
   m_ObjectHideFlags: 0
@@ -3721,9 +4161,10 @@ GameObject:
   - component: {fileID: 2896801192062039077}
   - component: {fileID: 2896801192062039075}
   - component: {fileID: 2896801192062039076}
+  - component: {fileID: 3610305088456473803}
   m_Layer: 0
   m_Name: bloco fogo 2D (6)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3816,6 +4257,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4407332, y: 1.3920231}
   m_EdgeRadius: 0
+--- !u!50 &3610305088456473803
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192062039078}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192062794241
 GameObject:
   m_ObjectHideFlags: 0
@@ -3827,9 +4289,10 @@ GameObject:
   - component: {fileID: 2896801192062794240}
   - component: {fileID: 2896801192062794254}
   - component: {fileID: 2896801192062794255}
+  - component: {fileID: 1136501469699663998}
   m_Layer: 0
   m_Name: bloco fogo 2D (33)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3922,6 +4385,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &1136501469699663998
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192062794241}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192066472089
 GameObject:
   m_ObjectHideFlags: 0
@@ -3933,9 +4417,10 @@ GameObject:
   - component: {fileID: 2896801192066472088}
   - component: {fileID: 2896801192066472102}
   - component: {fileID: 2896801192066472103}
+  - component: {fileID: 1948144948715263487}
   m_Layer: 0
   m_Name: bloco fogo 2D (50)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4028,6 +4513,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4407332, y: 1.3920231}
   m_EdgeRadius: 0
+--- !u!50 &1948144948715263487
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192066472089}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192072481270
 GameObject:
   m_ObjectHideFlags: 0
@@ -4039,9 +4545,10 @@ GameObject:
   - component: {fileID: 2896801192072481269}
   - component: {fileID: 2896801192072481267}
   - component: {fileID: 2896801192072481268}
+  - component: {fileID: 5012140126913879418}
   m_Layer: 0
   m_Name: bloco fogo 2D (132)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4134,6 +4641,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4309801, y: 1.3973551}
   m_EdgeRadius: 0
+--- !u!50 &5012140126913879418
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192072481270}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192073202827
 GameObject:
   m_ObjectHideFlags: 0
@@ -4357,9 +4885,10 @@ GameObject:
   - component: {fileID: 2896801192079620161}
   - component: {fileID: 2896801192079620175}
   - component: {fileID: 2896801192079620160}
+  - component: {fileID: 7244396700896451214}
   m_Layer: 0
   m_Name: bloco fogo 2D (129)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4452,6 +4981,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4487721, y: 1.4035192}
   m_EdgeRadius: 0
+--- !u!50 &7244396700896451214
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192079620162}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192084459043
 GameObject:
   m_ObjectHideFlags: 0
@@ -4569,9 +5119,10 @@ GameObject:
   - component: {fileID: 2896801192089188313}
   - component: {fileID: 2896801192089188327}
   - component: {fileID: 2896801192089188312}
+  - component: {fileID: 7786380573542810131}
   m_Layer: 0
   m_Name: bloco fogo 2D (19)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4664,6 +5215,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4487721, y: 1.4035192}
   m_EdgeRadius: 0
+--- !u!50 &7786380573542810131
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192089188314}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192091927004
 GameObject:
   m_ObjectHideFlags: 0
@@ -4675,9 +5247,10 @@ GameObject:
   - component: {fileID: 2896801192091927003}
   - component: {fileID: 2896801192091927001}
   - component: {fileID: 2896801192091927002}
+  - component: {fileID: 5666059879575286648}
   m_Layer: 0
   m_Name: bloco fogo 2D (29)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4770,6 +5343,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4407332, y: 1.3920231}
   m_EdgeRadius: 0
+--- !u!50 &5666059879575286648
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192091927004}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192093118705
 GameObject:
   m_ObjectHideFlags: 0
@@ -4781,9 +5375,10 @@ GameObject:
   - component: {fileID: 2896801192093118704}
   - component: {fileID: 2896801192093118718}
   - component: {fileID: 2896801192093118719}
+  - component: {fileID: 7071452234430782617}
   m_Layer: 0
   m_Name: bloco fogo 2D (138)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4876,6 +5471,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4403112, y: 1.4042497}
   m_EdgeRadius: 0
+--- !u!50 &7071452234430782617
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192093118705}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192102289557
 GameObject:
   m_ObjectHideFlags: 0
@@ -4887,9 +5503,10 @@ GameObject:
   - component: {fileID: 2896801192102289556}
   - component: {fileID: 2896801192102289554}
   - component: {fileID: 2896801192102289555}
+  - component: {fileID: 8949022339345025800}
   m_Layer: 0
   m_Name: bloco fogo 2D (95)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4982,6 +5599,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4487721, y: 1.4035192}
   m_EdgeRadius: 0
+--- !u!50 &8949022339345025800
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192102289557}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192107163882
 GameObject:
   m_ObjectHideFlags: 0
@@ -4993,9 +5631,10 @@ GameObject:
   - component: {fileID: 2896801192107163881}
   - component: {fileID: 2896801192107163895}
   - component: {fileID: 2896801192107163880}
+  - component: {fileID: 3628894065750422038}
   m_Layer: 0
   m_Name: bloco fogo 2D (92)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5088,6 +5727,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4179363, y: 1.4156313}
   m_EdgeRadius: 0
+--- !u!50 &3628894065750422038
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192107163882}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192141870501
 GameObject:
   m_ObjectHideFlags: 0
@@ -5205,9 +5865,10 @@ GameObject:
   - component: {fileID: 2896801192154139937}
   - component: {fileID: 2896801192154139951}
   - component: {fileID: 2896801192154139936}
+  - component: {fileID: 5398770007527303077}
   m_Layer: 0
   m_Name: bloco fogo 2D (101)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5300,6 +5961,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &5398770007527303077
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192154139938}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192160529362
 GameObject:
   m_ObjectHideFlags: 0
@@ -5523,9 +6205,10 @@ GameObject:
   - component: {fileID: 2896801192176029423}
   - component: {fileID: 2896801192176029421}
   - component: {fileID: 2896801192176029422}
+  - component: {fileID: 983567466529530397}
   m_Layer: 0
   m_Name: bloco fogo 2D (79)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5618,6 +6301,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4414039, y: 1.3952751}
   m_EdgeRadius: 0
+--- !u!50 &983567466529530397
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192176029408}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192179858270
 GameObject:
   m_ObjectHideFlags: 0
@@ -5629,9 +6333,10 @@ GameObject:
   - component: {fileID: 2896801192179858269}
   - component: {fileID: 2896801192179858267}
   - component: {fileID: 2896801192179858268}
+  - component: {fileID: 8257277584543556143}
   m_Layer: 0
   m_Name: bloco fogo 2D (55)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5724,6 +6429,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &8257277584543556143
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192179858270}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192181967785
 GameObject:
   m_ObjectHideFlags: 0
@@ -5735,9 +6461,10 @@ GameObject:
   - component: {fileID: 2896801192181967784}
   - component: {fileID: 2896801192181967798}
   - component: {fileID: 2896801192181967799}
+  - component: {fileID: 9117132541409351681}
   m_Layer: 0
   m_Name: bloco fogo 2D (1)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5830,6 +6557,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4274769, y: 1.410017}
   m_EdgeRadius: 0
+--- !u!50 &9117132541409351681
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192181967785}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192187500110
 GameObject:
   m_ObjectHideFlags: 0
@@ -5947,9 +6695,10 @@ GameObject:
   - component: {fileID: 2896801192190254780}
   - component: {fileID: 2896801192190254778}
   - component: {fileID: 2896801192190254779}
+  - component: {fileID: 8972493708701469681}
   m_Layer: 0
   m_Name: bloco fogo 2D (17)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6042,6 +6791,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4403112, y: 1.4042497}
   m_EdgeRadius: 0
+--- !u!50 &8972493708701469681
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192190254781}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192192926518
 GameObject:
   m_ObjectHideFlags: 0
@@ -6053,9 +6823,10 @@ GameObject:
   - component: {fileID: 2896801192192926517}
   - component: {fileID: 2896801192192926515}
   - component: {fileID: 2896801192192926516}
+  - component: {fileID: 5302752266270014292}
   m_Layer: 0
   m_Name: bloco fogo 2D (28)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6148,6 +6919,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4325376, y: 1.432538}
   m_EdgeRadius: 0
+--- !u!50 &5302752266270014292
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192192926518}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192218330978
 GameObject:
   m_ObjectHideFlags: 0
@@ -6238,9 +7030,10 @@ GameObject:
   - component: {fileID: 2896801192230470793}
   - component: {fileID: 2896801192230470807}
   - component: {fileID: 2896801192230470792}
+  - component: {fileID: 247806266987515734}
   m_Layer: 0
   m_Name: bloco fogo 2D (7)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6333,6 +7126,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &247806266987515734
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192230470794}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192243904669
 GameObject:
   m_ObjectHideFlags: 0
@@ -6344,9 +7158,10 @@ GameObject:
   - component: {fileID: 2896801192243904668}
   - component: {fileID: 2896801192243904666}
   - component: {fileID: 2896801192243904667}
+  - component: {fileID: 6815466339864579155}
   m_Layer: 0
   m_Name: bloco fogo 2D (23)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6439,6 +7254,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4414039, y: 1.3952751}
   m_EdgeRadius: 0
+--- !u!50 &6815466339864579155
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192243904669}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192245139635
 GameObject:
   m_ObjectHideFlags: 0
@@ -6450,9 +7286,10 @@ GameObject:
   - component: {fileID: 2896801192245139634}
   - component: {fileID: 2896801192245139632}
   - component: {fileID: 2896801192245139633}
+  - component: {fileID: 8016214782791674695}
   m_Layer: 0
   m_Name: bloco fogo 2D (73)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6545,6 +7382,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4407332, y: 1.3920231}
   m_EdgeRadius: 0
+--- !u!50 &8016214782791674695
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192245139635}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192248450727
 GameObject:
   m_ObjectHideFlags: 0
@@ -6662,9 +7520,10 @@ GameObject:
   - component: {fileID: 2896801192248871667}
   - component: {fileID: 2896801192248871665}
   - component: {fileID: 2896801192248871666}
+  - component: {fileID: 604371098501510501}
   m_Layer: 0
   m_Name: bloco fogo 2D (123)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6757,6 +7616,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &604371098501510501
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192248871668}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192262051732
 GameObject:
   m_ObjectHideFlags: 0
@@ -6874,9 +7754,10 @@ GameObject:
   - component: {fileID: 2896801192263212231}
   - component: {fileID: 2896801192263212229}
   - component: {fileID: 2896801192263212230}
+  - component: {fileID: 2552522239935791830}
   m_Layer: 0
   m_Name: bloco fogo 2D (110)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6969,6 +7850,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &2552522239935791830
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192263212216}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192266435909
 GameObject:
   m_ObjectHideFlags: 0
@@ -7192,9 +8094,10 @@ GameObject:
   - component: {fileID: 2896801192288568284}
   - component: {fileID: 2896801192288568282}
   - component: {fileID: 2896801192288568283}
+  - component: {fileID: 2901770930279224854}
   m_Layer: 0
   m_Name: bloco fogo 2D (90)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7287,6 +8190,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4274769, y: 1.410017}
   m_EdgeRadius: 0
+--- !u!50 &2901770930279224854
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192288568285}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192307251711
 GameObject:
   m_ObjectHideFlags: 0
@@ -7616,9 +8540,10 @@ GameObject:
   - component: {fileID: 2896801192413618357}
   - component: {fileID: 2896801192413618355}
   - component: {fileID: 2896801192413618356}
+  - component: {fileID: 6785766766264201975}
   m_Layer: 0
   m_Name: bloco fogo 2D (84)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7711,6 +8636,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4325376, y: 1.432538}
   m_EdgeRadius: 0
+--- !u!50 &6785766766264201975
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192413618358}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192413651851
 GameObject:
   m_ObjectHideFlags: 0
@@ -7722,9 +8668,10 @@ GameObject:
   - component: {fileID: 2896801192413651850}
   - component: {fileID: 2896801192413651848}
   - component: {fileID: 2896801192413651849}
+  - component: {fileID: 6316112894748732761}
   m_Layer: 0
   m_Name: bloco fogo 2D (120)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7817,6 +8764,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &6316112894748732761
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192413651851}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192414349508
 GameObject:
   m_ObjectHideFlags: 0
@@ -8331,9 +9299,10 @@ GameObject:
   - component: {fileID: 2896801192492466993}
   - component: {fileID: 2896801192492467007}
   - component: {fileID: 2896801192492466992}
+  - component: {fileID: 4681904402111132294}
   m_Layer: 0
   m_Name: bloco fogo 2D (3)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8426,6 +9395,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4179363, y: 1.4156313}
   m_EdgeRadius: 0
+--- !u!50 &4681904402111132294
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192492466994}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192493949552
 GameObject:
   m_ObjectHideFlags: 0
@@ -8543,9 +9533,10 @@ GameObject:
   - component: {fileID: 2896801192516175844}
   - component: {fileID: 2896801192516175842}
   - component: {fileID: 2896801192516175843}
+  - component: {fileID: 7753868209388525439}
   m_Layer: 0
   m_Name: bloco fogo 2D (60)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8638,6 +9629,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4492588, y: 1.4167581}
   m_EdgeRadius: 0
+--- !u!50 &7753868209388525439
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192516175845}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192519319629
 GameObject:
   m_ObjectHideFlags: 0
@@ -8649,9 +9661,10 @@ GameObject:
   - component: {fileID: 2896801192519319628}
   - component: {fileID: 2896801192519319626}
   - component: {fileID: 2896801192519319627}
+  - component: {fileID: 4944854828981403645}
   m_Layer: 0
   m_Name: bloco fogo 2D (103)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8744,6 +9757,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4414039, y: 1.3952751}
   m_EdgeRadius: 0
+--- !u!50 &4944854828981403645
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192519319629}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192530960133
 GameObject:
   m_ObjectHideFlags: 0
@@ -8861,9 +9895,10 @@ GameObject:
   - component: {fileID: 2896801192550147142}
   - component: {fileID: 2896801192550147140}
   - component: {fileID: 2896801192550147141}
+  - component: {fileID: 3921343369670248678}
   m_Layer: 0
   m_Name: bloco fogo 2D (66)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8956,6 +9991,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &3921343369670248678
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192550147143}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192553420804
 GameObject:
   m_ObjectHideFlags: 0
@@ -8967,9 +10023,10 @@ GameObject:
   - component: {fileID: 2896801192553420803}
   - component: {fileID: 2896801192553420801}
   - component: {fileID: 2896801192553420802}
+  - component: {fileID: 4431709718785585684}
   m_Layer: 0
   m_Name: bloco fogo 2D (54)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9062,6 +10119,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &4431709718785585684
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192553420804}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192558337760
 GameObject:
   m_ObjectHideFlags: 0
@@ -9073,9 +10151,10 @@ GameObject:
   - component: {fileID: 2896801192558337775}
   - component: {fileID: 2896801192558337773}
   - component: {fileID: 2896801192558337774}
+  - component: {fileID: 8451936438873710828}
   m_Layer: 0
   m_Name: bloco fogo 2D (146)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9168,6 +10247,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &8451936438873710828
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192558337760}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192560815100
 GameObject:
   m_ObjectHideFlags: 0
@@ -9391,9 +10491,10 @@ GameObject:
   - component: {fileID: 2896801192569294515}
   - component: {fileID: 2896801192569294513}
   - component: {fileID: 2896801192569294514}
+  - component: {fileID: 8502198769530008469}
   m_Layer: 0
   m_Name: bloco fogo 2D (10)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9486,6 +10587,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &8502198769530008469
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192569294516}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192579450749
 GameObject:
   m_ObjectHideFlags: 0
@@ -9497,9 +10619,10 @@ GameObject:
   - component: {fileID: 2896801192579450748}
   - component: {fileID: 2896801192579450746}
   - component: {fileID: 2896801192579450747}
+  - component: {fileID: 2502135582647395172}
   m_Layer: 0
   m_Name: bloco fogo 2D (42)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9592,6 +10715,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &2502135582647395172
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192579450749}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192586810028
 GameObject:
   m_ObjectHideFlags: 0
@@ -9709,9 +10853,10 @@ GameObject:
   - component: {fileID: 2896801192587391139}
   - component: {fileID: 2896801192587391137}
   - component: {fileID: 2896801192587391138}
+  - component: {fileID: 2952672664477715603}
   m_Layer: 0
   m_Name: bloco fogo 2D (46)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9804,6 +10949,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4403112, y: 1.4042497}
   m_EdgeRadius: 0
+--- !u!50 &2952672664477715603
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192587391140}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192602530652
 GameObject:
   m_ObjectHideFlags: 0
@@ -9815,9 +10981,10 @@ GameObject:
   - component: {fileID: 2896801192602530651}
   - component: {fileID: 2896801192602530649}
   - component: {fileID: 2896801192602530650}
+  - component: {fileID: 3739294045303270983}
   m_Layer: 0
   m_Name: bloco fogo 2D (112)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9910,6 +11077,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4414039, y: 1.3952751}
   m_EdgeRadius: 0
+--- !u!50 &3739294045303270983
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192602530652}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192612877144
 GameObject:
   m_ObjectHideFlags: 0
@@ -9921,9 +11109,10 @@ GameObject:
   - component: {fileID: 2896801192612877159}
   - component: {fileID: 2896801192612877157}
   - component: {fileID: 2896801192612877158}
+  - component: {fileID: 5621101719332473332}
   m_Layer: 0
   m_Name: bloco fogo 2D (30)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10016,6 +11205,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4309801, y: 1.3973551}
   m_EdgeRadius: 0
+--- !u!50 &5621101719332473332
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192612877144}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192617894838
 GameObject:
   m_ObjectHideFlags: 0
@@ -10027,9 +11237,10 @@ GameObject:
   - component: {fileID: 2896801192617894837}
   - component: {fileID: 2896801192617894835}
   - component: {fileID: 2896801192617894836}
+  - component: {fileID: 197717013334876132}
   m_Layer: 0
   m_Name: bloco fogo 2D (118)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10122,6 +11333,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4407332, y: 1.3920231}
   m_EdgeRadius: 0
+--- !u!50 &197717013334876132
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192617894838}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192624766269
 GameObject:
   m_ObjectHideFlags: 0
@@ -10133,9 +11365,10 @@ GameObject:
   - component: {fileID: 2896801192624766268}
   - component: {fileID: 2896801192624766266}
   - component: {fileID: 2896801192624766267}
+  - component: {fileID: 3291302335069346442}
   m_Layer: 0
   m_Name: bloco fogo 2D (47)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10228,6 +11461,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4492588, y: 1.4167581}
   m_EdgeRadius: 0
+--- !u!50 &3291302335069346442
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192624766269}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192640678019
 GameObject:
   m_ObjectHideFlags: 0
@@ -10381,9 +11635,10 @@ GameObject:
   - component: {fileID: 2896801192664020861}
   - component: {fileID: 2896801192664020859}
   - component: {fileID: 2896801192664020860}
+  - component: {fileID: 8033987384173324252}
   m_Layer: 0
   m_Name: bloco fogo 2D (56)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10476,6 +11731,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4274769, y: 1.410017}
   m_EdgeRadius: 0
+--- !u!50 &8033987384173324252
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192664020862}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192665676361
 GameObject:
   m_ObjectHideFlags: 0
@@ -10487,9 +11763,10 @@ GameObject:
   - component: {fileID: 2896801192665676360}
   - component: {fileID: 2896801192665676374}
   - component: {fileID: 2896801192665676375}
+  - component: {fileID: 7937816010646497801}
   m_Layer: 0
   m_Name: bloco fogo 2D (76)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10582,6 +11859,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &7937816010646497801
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192665676361}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192671305296
 GameObject:
   m_ObjectHideFlags: 0
@@ -11017,9 +12315,10 @@ GameObject:
   - component: {fileID: 2896801192695873275}
   - component: {fileID: 2896801192695873273}
   - component: {fileID: 2896801192695873274}
+  - component: {fileID: 3543878081157993872}
   m_Layer: 0
   m_Name: bloco fogo 2D (104)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11112,6 +12411,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4179363, y: 1.4156313}
   m_EdgeRadius: 0
+--- !u!50 &3543878081157993872
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192695873276}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192710403570
 GameObject:
   m_ObjectHideFlags: 0
@@ -11123,9 +12443,10 @@ GameObject:
   - component: {fileID: 2896801192710403569}
   - component: {fileID: 2896801192710403583}
   - component: {fileID: 2896801192710403568}
+  - component: {fileID: 8069195622070342424}
   m_Layer: 0
   m_Name: bloco fogo 2D (107)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11218,6 +12539,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4325376, y: 1.432538}
   m_EdgeRadius: 0
+--- !u!50 &8069195622070342424
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192710403570}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192735592794
 GameObject:
   m_ObjectHideFlags: 0
@@ -11229,9 +12571,10 @@ GameObject:
   - component: {fileID: 2896801192735592793}
   - component: {fileID: 2896801192735592807}
   - component: {fileID: 2896801192735592792}
+  - component: {fileID: 8585698016676872294}
   m_Layer: 0
   m_Name: bloco fogo 2D (74)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11324,6 +12667,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4309801, y: 1.3973551}
   m_EdgeRadius: 0
+--- !u!50 &8585698016676872294
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192735592794}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192738120132
 GameObject:
   m_ObjectHideFlags: 0
@@ -11441,9 +12805,10 @@ GameObject:
   - component: {fileID: 2896801192744610910}
   - component: {fileID: 2896801192744610908}
   - component: {fileID: 2896801192744610909}
+  - component: {fileID: 3964073537144798980}
   m_Layer: 0
   m_Name: bloco fogo 2D (106)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11536,6 +12901,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4487721, y: 1.4035192}
   m_EdgeRadius: 0
+--- !u!50 &3964073537144798980
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192744610911}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192746791942
 GameObject:
   m_ObjectHideFlags: 0
@@ -11547,9 +12933,10 @@ GameObject:
   - component: {fileID: 2896801192746791941}
   - component: {fileID: 2896801192746791939}
   - component: {fileID: 2896801192746791940}
+  - component: {fileID: 1899845606092737795}
   m_Layer: 0
   m_Name: bloco fogo 2D (31)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11642,6 +13029,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &1899845606092737795
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192746791942}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192746833926
 GameObject:
   m_ObjectHideFlags: 0
@@ -11653,9 +13061,10 @@ GameObject:
   - component: {fileID: 2896801192746833925}
   - component: {fileID: 2896801192746833923}
   - component: {fileID: 2896801192746833924}
+  - component: {fileID: 8282999468037670318}
   m_Layer: 0
   m_Name: bloco fogo 2D (83)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11748,6 +13157,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4487721, y: 1.4035192}
   m_EdgeRadius: 0
+--- !u!50 &8282999468037670318
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192746833926}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192772589340
 GameObject:
   m_ObjectHideFlags: 0
@@ -12077,9 +13507,10 @@ GameObject:
   - component: {fileID: 2896801192821675163}
   - component: {fileID: 2896801192821675161}
   - component: {fileID: 2896801192821675162}
+  - component: {fileID: 9131714749205207700}
   m_Layer: 0
   m_Name: bloco fogo 2D (15)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12172,6 +13603,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4407332, y: 1.3920231}
   m_EdgeRadius: 0
+--- !u!50 &9131714749205207700
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192821675164}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192826464223
 GameObject:
   m_ObjectHideFlags: 0
@@ -12289,9 +13741,10 @@ GameObject:
   - component: {fileID: 2896801192832861847}
   - component: {fileID: 2896801192832861845}
   - component: {fileID: 2896801192832861846}
+  - component: {fileID: 1285170557382327668}
   m_Layer: 0
   m_Name: bloco fogo 2D (68)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12384,6 +13837,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4274769, y: 1.410017}
   m_EdgeRadius: 0
+--- !u!50 &1285170557382327668
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192832861832}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192836160328
 GameObject:
   m_ObjectHideFlags: 0
@@ -12395,9 +13869,10 @@ GameObject:
   - component: {fileID: 2896801192836160343}
   - component: {fileID: 2896801192836160341}
   - component: {fileID: 2896801192836160342}
+  - component: {fileID: 4512486461283698611}
   m_Layer: 0
   m_Name: bloco fogo 2D (141)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12490,6 +13965,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4407332, y: 1.3920231}
   m_EdgeRadius: 0
+--- !u!50 &4512486461283698611
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192836160328}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192836310787
 GameObject:
   m_ObjectHideFlags: 0
@@ -12501,9 +13997,10 @@ GameObject:
   - component: {fileID: 2896801192836310786}
   - component: {fileID: 2896801192836310784}
   - component: {fileID: 2896801192836310785}
+  - component: {fileID: 7609734964386008277}
   m_Layer: 0
   m_Name: bloco fogo 2D (25)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12596,6 +14093,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4403112, y: 1.4042497}
   m_EdgeRadius: 0
+--- !u!50 &7609734964386008277
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192836310787}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192845152332
 GameObject:
   m_ObjectHideFlags: 0
@@ -12607,9 +14125,10 @@ GameObject:
   - component: {fileID: 2896801192845152331}
   - component: {fileID: 2896801192845152329}
   - component: {fileID: 2896801192845152330}
+  - component: {fileID: 8926862458614610566}
   m_Layer: 0
   m_Name: bloco fogo 2D (35)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12702,6 +14221,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4414039, y: 1.3952751}
   m_EdgeRadius: 0
+--- !u!50 &8926862458614610566
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192845152332}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192846373024
 GameObject:
   m_ObjectHideFlags: 0
@@ -12713,9 +14253,10 @@ GameObject:
   - component: {fileID: 2896801192846373039}
   - component: {fileID: 2896801192846373037}
   - component: {fileID: 2896801192846373038}
+  - component: {fileID: 226655282982220688}
   m_Layer: 0
   m_Name: bloco fogo 2D (102)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12808,6 +14349,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &226655282982220688
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192846373024}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192868041054
 GameObject:
   m_ObjectHideFlags: 0
@@ -12819,9 +14381,10 @@ GameObject:
   - component: {fileID: 2896801192868041053}
   - component: {fileID: 2896801192868041051}
   - component: {fileID: 2896801192868041052}
+  - component: {fileID: 4426115640896648870}
   m_Layer: 0
   m_Name: bloco fogo 2D (96)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12914,6 +14477,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4325376, y: 1.432538}
   m_EdgeRadius: 0
+--- !u!50 &4426115640896648870
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192868041054}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192878304875
 GameObject:
   m_ObjectHideFlags: 0
@@ -12925,9 +14509,10 @@ GameObject:
   - component: {fileID: 2896801192878304874}
   - component: {fileID: 2896801192878304872}
   - component: {fileID: 2896801192878304873}
+  - component: {fileID: 7451589349124887429}
   m_Layer: 0
   m_Name: bloco fogo 2D (98)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13020,6 +14605,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4309801, y: 1.3973551}
   m_EdgeRadius: 0
+--- !u!50 &7451589349124887429
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192878304875}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192887385125
 GameObject:
   m_ObjectHideFlags: 0
@@ -13031,9 +14637,10 @@ GameObject:
   - component: {fileID: 2896801192887385124}
   - component: {fileID: 2896801192887385122}
   - component: {fileID: 2896801192887385123}
+  - component: {fileID: 4173736821296027116}
   m_Layer: 0
   m_Name: bloco fogo 2D (82)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13126,6 +14733,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4492588, y: 1.4167581}
   m_EdgeRadius: 0
+--- !u!50 &4173736821296027116
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192887385125}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192927872414
 GameObject:
   m_ObjectHideFlags: 0
@@ -13349,9 +14977,10 @@ GameObject:
   - component: {fileID: 2896801192940346320}
   - component: {fileID: 2896801192940346334}
   - component: {fileID: 2896801192940346335}
+  - component: {fileID: 1948495691094760898}
   m_Layer: 0
   m_Name: bloco fogo 2D (77)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13444,6 +15073,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &1948495691094760898
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801192940346321}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801192948765017
 GameObject:
   m_ObjectHideFlags: 0
@@ -13773,9 +15423,10 @@ GameObject:
   - component: {fileID: 2896801193006621441}
   - component: {fileID: 2896801193006621455}
   - component: {fileID: 2896801193006621440}
+  - component: {fileID: 1905775489759785102}
   m_Layer: 0
   m_Name: bloco fogo 2D (51)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13868,6 +15519,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4309801, y: 1.3973551}
   m_EdgeRadius: 0
+--- !u!50 &1905775489759785102
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193006621442}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193025456027
 GameObject:
   m_ObjectHideFlags: 0
@@ -13879,9 +15551,10 @@ GameObject:
   - component: {fileID: 2896801193025456026}
   - component: {fileID: 2896801193025456024}
   - component: {fileID: 2896801193025456025}
+  - component: {fileID: 785240330731067097}
   m_Layer: 0
   m_Name: bloco fogo 2D (20)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13974,6 +15647,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &785240330731067097
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193025456027}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193026706808
 GameObject:
   m_ObjectHideFlags: 0
@@ -13985,9 +15679,10 @@ GameObject:
   - component: {fileID: 2896801193026706823}
   - component: {fileID: 2896801193026706821}
   - component: {fileID: 2896801193026706822}
+  - component: {fileID: 9013410978315794469}
   m_Layer: 0
   m_Name: bloco fogo 2D (49)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14080,6 +15775,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4325376, y: 1.432538}
   m_EdgeRadius: 0
+--- !u!50 &9013410978315794469
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193026706808}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193034486127
 GameObject:
   m_ObjectHideFlags: 0
@@ -14197,9 +15913,10 @@ GameObject:
   - component: {fileID: 2896801193053120274}
   - component: {fileID: 2896801193053120272}
   - component: {fileID: 2896801193053120273}
+  - component: {fileID: 1381235117560551370}
   m_Layer: 0
   m_Name: bloco fogo 2D (105)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14292,6 +16009,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4403112, y: 1.4042497}
   m_EdgeRadius: 0
+--- !u!50 &1381235117560551370
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193053120275}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193053885897
 GameObject:
   m_ObjectHideFlags: 0
@@ -14303,9 +16041,10 @@ GameObject:
   - component: {fileID: 2896801193053885896}
   - component: {fileID: 2896801193053885910}
   - component: {fileID: 2896801193053885911}
+  - component: {fileID: 7969887007199418551}
   m_Layer: 0
   m_Name: bloco fogo 2D (88)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14398,6 +16137,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &7969887007199418551
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193053885897}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193057261378
 GameObject:
   m_ObjectHideFlags: 0
@@ -14409,9 +16169,10 @@ GameObject:
   - component: {fileID: 2896801193057261377}
   - component: {fileID: 2896801193057261391}
   - component: {fileID: 2896801193057261376}
+  - component: {fileID: 2804789829631561949}
   m_Layer: 0
   m_Name: bloco fogo 2D (86)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14504,6 +16265,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4309801, y: 1.3973551}
   m_EdgeRadius: 0
+--- !u!50 &2804789829631561949
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193057261378}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193074088124
 GameObject:
   m_ObjectHideFlags: 0
@@ -14515,9 +16297,10 @@ GameObject:
   - component: {fileID: 2896801193074088123}
   - component: {fileID: 2896801193074088121}
   - component: {fileID: 2896801193074088122}
+  - component: {fileID: 6569559025531187102}
   m_Layer: 0
   m_Name: bloco fogo 2D (58)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14610,6 +16393,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4179363, y: 1.4156313}
   m_EdgeRadius: 0
+--- !u!50 &6569559025531187102
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193074088124}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193089009870
 GameObject:
   m_ObjectHideFlags: 0
@@ -14727,9 +16531,10 @@ GameObject:
   - component: {fileID: 2896801193092553982}
   - component: {fileID: 2896801193092553980}
   - component: {fileID: 2896801193092553981}
+  - component: {fileID: 1778189721041019532}
   m_Layer: 0
   m_Name: bloco fogo 2D (126)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14822,6 +16627,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4179363, y: 1.4156313}
   m_EdgeRadius: 0
+--- !u!50 &1778189721041019532
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193092553983}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193094115886
 GameObject:
   m_ObjectHideFlags: 0
@@ -14833,9 +16659,10 @@ GameObject:
   - component: {fileID: 2896801193094115885}
   - component: {fileID: 2896801193094115883}
   - component: {fileID: 2896801193094115884}
+  - component: {fileID: 2341309477385392616}
   m_Layer: 0
   m_Name: bloco fogo 2D (24)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14928,6 +16755,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4179363, y: 1.4156313}
   m_EdgeRadius: 0
+--- !u!50 &2341309477385392616
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193094115886}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193101581596
 GameObject:
   m_ObjectHideFlags: 0
@@ -15045,9 +16893,10 @@ GameObject:
   - component: {fileID: 2896801193174772285}
   - component: {fileID: 2896801193174772283}
   - component: {fileID: 2896801193174772284}
+  - component: {fileID: 4288127757194123847}
   m_Layer: 0
   m_Name: bloco fogo 2D (128)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15140,6 +16989,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4492588, y: 1.4167581}
   m_EdgeRadius: 0
+--- !u!50 &4288127757194123847
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193174772286}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193177647782
 GameObject:
   m_ObjectHideFlags: 0
@@ -15257,9 +17127,10 @@ GameObject:
   - component: {fileID: 2896801193181527917}
   - component: {fileID: 2896801193181527915}
   - component: {fileID: 2896801193181527916}
+  - component: {fileID: 8697925768993866546}
   m_Layer: 0
   m_Name: bloco fogo 2D (97)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15352,6 +17223,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4407332, y: 1.3920231}
   m_EdgeRadius: 0
+--- !u!50 &8697925768993866546
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193181527918}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193183593163
 GameObject:
   m_ObjectHideFlags: 0
@@ -15363,9 +17255,10 @@ GameObject:
   - component: {fileID: 2896801193183593162}
   - component: {fileID: 2896801193183593160}
   - component: {fileID: 2896801193183593161}
+  - component: {fileID: 1755943477429161813}
   m_Layer: 0
   m_Name: bloco fogo 2D (94)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15458,6 +17351,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4492588, y: 1.4167581}
   m_EdgeRadius: 0
+--- !u!50 &1755943477429161813
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193183593163}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193186172096
 GameObject:
   m_ObjectHideFlags: 0
@@ -15469,9 +17383,10 @@ GameObject:
   - component: {fileID: 2896801193186172111}
   - component: {fileID: 2896801193186172109}
   - component: {fileID: 2896801193186172110}
+  - component: {fileID: 7022542738516165305}
   m_Layer: 0
   m_Name: bloco fogo 2D (100)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15564,6 +17479,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &7022542738516165305
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193186172096}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193191646266
 GameObject:
   m_ObjectHideFlags: 0
@@ -15737,9 +17673,10 @@ GameObject:
   - component: {fileID: 2896801193208103442}
   - component: {fileID: 2896801193208103440}
   - component: {fileID: 2896801193208103441}
+  - component: {fileID: 1167036130679498550}
   m_Layer: 0
   m_Name: bloco fogo 2D (32)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15832,6 +17769,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &1167036130679498550
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193208103443}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193211208730
 GameObject:
   m_ObjectHideFlags: 0
@@ -15843,9 +17801,10 @@ GameObject:
   - component: {fileID: 2896801193211208729}
   - component: {fileID: 2896801193211208743}
   - component: {fileID: 2896801193211208728}
+  - component: {fileID: 1999927503666250177}
   m_Layer: 0
   m_Name: bloco fogo 2D (113)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15938,6 +17897,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4179363, y: 1.4156313}
   m_EdgeRadius: 0
+--- !u!50 &1999927503666250177
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193211208730}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193213547268
 GameObject:
   m_ObjectHideFlags: 0
@@ -15949,9 +17929,10 @@ GameObject:
   - component: {fileID: 2896801193213547267}
   - component: {fileID: 2896801193213547265}
   - component: {fileID: 2896801193213547266}
+  - component: {fileID: 3869199679695958540}
   m_Layer: 0
   m_Name: bloco fogo 2D (34)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16044,6 +18025,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &3869199679695958540
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193213547268}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193215582923
 GameObject:
   m_ObjectHideFlags: 0
@@ -16055,9 +18057,10 @@ GameObject:
   - component: {fileID: 2896801193215582922}
   - component: {fileID: 2896801193215582920}
   - component: {fileID: 2896801193215582921}
+  - component: {fileID: 195005358851788989}
   m_Layer: 0
   m_Name: bloco fogo 2D (122)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16150,6 +18153,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &195005358851788989
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193215582923}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193225701623
 GameObject:
   m_ObjectHideFlags: 0
@@ -16161,9 +18185,10 @@ GameObject:
   - component: {fileID: 2896801193225701622}
   - component: {fileID: 2896801193225701620}
   - component: {fileID: 2896801193225701621}
+  - component: {fileID: 5939653530593258217}
   m_Layer: 0
   m_Name: bloco fogo 2D (53)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16256,6 +18281,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &5939653530593258217
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193225701623}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193228560492
 GameObject:
   m_ObjectHideFlags: 0
@@ -16267,9 +18313,10 @@ GameObject:
   - component: {fileID: 2896801193228560491}
   - component: {fileID: 2896801193228560489}
   - component: {fileID: 2896801193228560490}
+  - component: {fileID: 279184763462339986}
   m_Layer: 0
   m_Name: bloco fogo 2D (87)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16362,6 +18409,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &279184763462339986
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193228560492}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193260981410
 GameObject:
   m_ObjectHideFlags: 0
@@ -16479,9 +18547,10 @@ GameObject:
   - component: {fileID: 2896801193267300508}
   - component: {fileID: 2896801193267300506}
   - component: {fileID: 2896801193267300507}
+  - component: {fileID: 470613074528824208}
   m_Layer: 0
   m_Name: bloco fogo 2D (61)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16574,6 +18643,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4487721, y: 1.4035192}
   m_EdgeRadius: 0
+--- !u!50 &470613074528824208
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193267300509}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193268868765
 GameObject:
   m_ObjectHideFlags: 0
@@ -16585,9 +18675,10 @@ GameObject:
   - component: {fileID: 2896801193268868764}
   - component: {fileID: 2896801193268868762}
   - component: {fileID: 2896801193268868763}
+  - component: {fileID: 863501502550225901}
   m_Layer: 0
   m_Name: bloco fogo 2D (45)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16680,6 +18771,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4179363, y: 1.4156313}
   m_EdgeRadius: 0
+--- !u!50 &863501502550225901
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193268868765}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193278856331
 GameObject:
   m_ObjectHideFlags: 0
@@ -16691,9 +18803,10 @@ GameObject:
   - component: {fileID: 2896801193278856330}
   - component: {fileID: 2896801193278856328}
   - component: {fileID: 2896801193278856329}
+  - component: {fileID: 3804964461510463430}
   m_Layer: 0
   m_Name: bloco fogo 2D (85)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16786,6 +18899,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4407332, y: 1.3920231}
   m_EdgeRadius: 0
+--- !u!50 &3804964461510463430
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193278856331}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193282823742
 GameObject:
   m_ObjectHideFlags: 0
@@ -16852,9 +18986,10 @@ GameObject:
   - component: {fileID: 2896801193290429678}
   - component: {fileID: 2896801193290429676}
   - component: {fileID: 2896801193290429677}
+  - component: {fileID: 5015218036757595047}
   m_Layer: 0
   m_Name: bloco fogo 2D (4)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16947,6 +19082,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4309801, y: 1.3973551}
   m_EdgeRadius: 0
+--- !u!50 &5015218036757595047
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193290429679}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193296581984
 GameObject:
   m_ObjectHideFlags: 0
@@ -17064,9 +19220,10 @@ GameObject:
   - component: {fileID: 2896801193315974854}
   - component: {fileID: 2896801193315974852}
   - component: {fileID: 2896801193315974853}
+  - component: {fileID: 8485862915261421430}
   m_Layer: 0
   m_Name: bloco fogo 2D (5)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17159,6 +19316,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4325376, y: 1.432538}
   m_EdgeRadius: 0
+--- !u!50 &8485862915261421430
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193315974855}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193339252597
 GameObject:
   m_ObjectHideFlags: 0
@@ -17170,9 +19348,10 @@ GameObject:
   - component: {fileID: 2896801193339252596}
   - component: {fileID: 2896801193339252594}
   - component: {fileID: 2896801193339252595}
+  - component: {fileID: 3328232582837213165}
   m_Layer: 0
   m_Name: bloco fogo 2D (140)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17265,6 +19444,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4325376, y: 1.432538}
   m_EdgeRadius: 0
+--- !u!50 &3328232582837213165
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193339252597}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193344462085
 GameObject:
   m_ObjectHideFlags: 0
@@ -17382,9 +19582,10 @@ GameObject:
   - component: {fileID: 2896801193348208939}
   - component: {fileID: 2896801193348208937}
   - component: {fileID: 2896801193348208938}
+  - component: {fileID: 8459101308901372446}
   m_Layer: 0
   m_Name: bloco fogo 2D (67)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17477,6 +19678,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &8459101308901372446
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193348208940}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193354923977
 GameObject:
   m_ObjectHideFlags: 0
@@ -17594,9 +19816,10 @@ GameObject:
   - component: {fileID: 2896801193365242839}
   - component: {fileID: 2896801193365242837}
   - component: {fileID: 2896801193365242838}
+  - component: {fileID: 251521432742969864}
   m_Layer: 0
   m_Name: bloco fogo 2D (38)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17689,6 +19912,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4492588, y: 1.4167581}
   m_EdgeRadius: 0
+--- !u!50 &251521432742969864
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193365242824}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193377075087
 GameObject:
   m_ObjectHideFlags: 0
@@ -17700,9 +19944,10 @@ GameObject:
   - component: {fileID: 2896801193377075086}
   - component: {fileID: 2896801193377075084}
   - component: {fileID: 2896801193377075085}
+  - component: {fileID: 5947467496708944948}
   m_Layer: 0
   m_Name: bloco fogo 2D (115)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17795,6 +20040,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4492588, y: 1.4167581}
   m_EdgeRadius: 0
+--- !u!50 &5947467496708944948
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193377075087}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193378709115
 GameObject:
   m_ObjectHideFlags: 0
@@ -18018,9 +20284,10 @@ GameObject:
   - component: {fileID: 2896801193389339839}
   - component: {fileID: 2896801193389339837}
   - component: {fileID: 2896801193389339838}
+  - component: {fileID: 7701433667172451461}
   m_Layer: 0
   m_Name: bloco fogo 2D (93)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18113,6 +20380,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4403112, y: 1.4042497}
   m_EdgeRadius: 0
+--- !u!50 &7701433667172451461
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193389339824}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193391740803
 GameObject:
   m_ObjectHideFlags: 0
@@ -18124,9 +20412,10 @@ GameObject:
   - component: {fileID: 2896801193391740802}
   - component: {fileID: 2896801193391740800}
   - component: {fileID: 2896801193391740801}
+  - component: {fileID: 6501796850973973961}
   m_Layer: 0
   m_Name: bloco fogo 2D (48)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18219,6 +20508,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4487721, y: 1.4035192}
   m_EdgeRadius: 0
+--- !u!50 &6501796850973973961
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193391740803}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193396210445
 GameObject:
   m_ObjectHideFlags: 0
@@ -18230,9 +20540,10 @@ GameObject:
   - component: {fileID: 2896801193396210444}
   - component: {fileID: 2896801193396210442}
   - component: {fileID: 2896801193396210443}
+  - component: {fileID: 2963721415505581627}
   m_Layer: 0
   m_Name: bloco fogo 2D (127)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18325,6 +20636,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4403112, y: 1.4042497}
   m_EdgeRadius: 0
+--- !u!50 &2963721415505581627
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193396210445}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193401372503
 GameObject:
   m_ObjectHideFlags: 0
@@ -18336,9 +20668,10 @@ GameObject:
   - component: {fileID: 2896801193401372502}
   - component: {fileID: 2896801193401372500}
   - component: {fileID: 2896801193401372501}
+  - component: {fileID: 8251563265033951787}
   m_Layer: 0
   m_Name: bloco fogo 2D (16)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18431,6 +20764,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4309801, y: 1.3973551}
   m_EdgeRadius: 0
+--- !u!50 &8251563265033951787
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193401372503}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193440980160
 GameObject:
   m_ObjectHideFlags: 0
@@ -18442,9 +20796,10 @@ GameObject:
   - component: {fileID: 2896801193440980175}
   - component: {fileID: 2896801193440980173}
   - component: {fileID: 2896801193440980174}
+  - component: {fileID: 8908157909976947906}
   m_Layer: 0
   m_Name: bloco fogo 2D (111)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18537,6 +20892,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4274769, y: 1.410017}
   m_EdgeRadius: 0
+--- !u!50 &8908157909976947906
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193440980160}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193447110178
 GameObject:
   m_ObjectHideFlags: 0
@@ -18548,9 +20924,10 @@ GameObject:
   - component: {fileID: 2896801193447110177}
   - component: {fileID: 2896801193447110191}
   - component: {fileID: 2896801193447110176}
+  - component: {fileID: 4993736594248330155}
   m_Layer: 0
   m_Name: bloco fogo 2D (43)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18643,6 +21020,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4274769, y: 1.410017}
   m_EdgeRadius: 0
+--- !u!50 &4993736594248330155
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193447110178}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193449007138
 GameObject:
   m_ObjectHideFlags: 0
@@ -18654,9 +21052,10 @@ GameObject:
   - component: {fileID: 2896801193449007137}
   - component: {fileID: 2896801193449007151}
   - component: {fileID: 2896801193449007136}
+  - component: {fileID: 7191976650494745589}
   m_Layer: 0
   m_Name: bloco fogo 2D (131)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18749,6 +21148,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4407332, y: 1.3920231}
   m_EdgeRadius: 0
+--- !u!50 &7191976650494745589
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193449007138}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193460450545
 GameObject:
   m_ObjectHideFlags: 0
@@ -18760,9 +21180,10 @@ GameObject:
   - component: {fileID: 2896801193460450544}
   - component: {fileID: 2896801193460450558}
   - component: {fileID: 2896801193460450559}
+  - component: {fileID: 2232292051262614813}
   m_Layer: 0
   m_Name: bloco fogo 2D (9)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18855,6 +21276,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4407332, y: 1.3920231}
   m_EdgeRadius: 0
+--- !u!50 &2232292051262614813
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193460450545}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193463510174
 GameObject:
   m_ObjectHideFlags: 0
@@ -18972,9 +21414,10 @@ GameObject:
   - component: {fileID: 2896801193468999003}
   - component: {fileID: 2896801193468999001}
   - component: {fileID: 2896801193468999002}
+  - component: {fileID: 2486154357867150197}
   m_Layer: 0
   m_Name: bloco fogo 2D (52)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19067,6 +21510,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &2486154357867150197
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193468999004}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193480746312
 GameObject:
   m_ObjectHideFlags: 0
@@ -19078,9 +21542,10 @@ GameObject:
   - component: {fileID: 2896801193480746327}
   - component: {fileID: 2896801193480746325}
   - component: {fileID: 2896801193480746326}
+  - component: {fileID: 414034528183638816}
   m_Layer: 0
   m_Name: bloco fogo 2D (41)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19173,6 +21638,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4309801, y: 1.3973551}
   m_EdgeRadius: 0
+--- !u!50 &414034528183638816
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193480746312}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193482111296
 GameObject:
   m_ObjectHideFlags: 0
@@ -19396,9 +21882,10 @@ GameObject:
   - component: {fileID: 2896801193486558856}
   - component: {fileID: 2896801193486558870}
   - component: {fileID: 2896801193486558871}
+  - component: {fileID: 7162798255574123887}
   m_Layer: 0
   m_Name: bloco fogo 2D (18)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19491,6 +21978,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4492588, y: 1.4167581}
   m_EdgeRadius: 0
+--- !u!50 &7162798255574123887
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193486558857}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193495577869
 GameObject:
   m_ObjectHideFlags: 0
@@ -19608,9 +22116,10 @@ GameObject:
   - component: {fileID: 2896801193501211803}
   - component: {fileID: 2896801193501211801}
   - component: {fileID: 2896801193501211802}
+  - component: {fileID: 6499079444269054095}
   m_Layer: 0
   m_Name: bloco fogo 2D (108)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19703,6 +22212,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4407332, y: 1.3920231}
   m_EdgeRadius: 0
+--- !u!50 &6499079444269054095
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193501211804}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193516604498
 GameObject:
   m_ObjectHideFlags: 0
@@ -19714,9 +22244,10 @@ GameObject:
   - component: {fileID: 2896801193516604497}
   - component: {fileID: 2896801193516604511}
   - component: {fileID: 2896801193516604496}
+  - component: {fileID: 4389724364015394816}
   m_Layer: 0
   m_Name: bloco fogo 2D (62)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19809,6 +22340,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4325376, y: 1.432538}
   m_EdgeRadius: 0
+--- !u!50 &4389724364015394816
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193516604498}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193519334365
 GameObject:
   m_ObjectHideFlags: 0
@@ -19820,9 +22372,10 @@ GameObject:
   - component: {fileID: 2896801193519334364}
   - component: {fileID: 2896801193519334362}
   - component: {fileID: 2896801193519334363}
+  - component: {fileID: 1185133190042636220}
   m_Layer: 0
   m_Name: bloco fogo 2D (8)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19915,6 +22468,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &1185133190042636220
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193519334365}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193520258377
 GameObject:
   m_ObjectHideFlags: 0
@@ -20138,9 +22712,10 @@ GameObject:
   - component: {fileID: 2896801193549845388}
   - component: {fileID: 2896801193549845386}
   - component: {fileID: 2896801193549845387}
+  - component: {fileID: 7341182987582276256}
   m_Layer: 0
   m_Name: bloco fogo 2D (75)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20233,6 +22808,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &7341182987582276256
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193549845389}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193551986590
 GameObject:
   m_ObjectHideFlags: 0
@@ -20244,9 +22840,10 @@ GameObject:
   - component: {fileID: 2896801193551986589}
   - component: {fileID: 2896801193551986587}
   - component: {fileID: 2896801193551986588}
+  - component: {fileID: 5132228252459567068}
   m_Layer: 0
   m_Name: bloco fogo 2D (69)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20339,6 +22936,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4179363, y: 1.4156313}
   m_EdgeRadius: 0
+--- !u!50 &5132228252459567068
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193551986590}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193553925864
 GameObject:
   m_ObjectHideFlags: 0
@@ -20442,9 +23060,10 @@ GameObject:
   - component: {fileID: 2896801193565327822}
   - component: {fileID: 2896801193565327820}
   - component: {fileID: 2896801193565327821}
+  - component: {fileID: 3505755187623142792}
   m_Layer: 0
   m_Name: bloco fogo 2D (11)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20537,6 +23156,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4309801, y: 1.3973551}
   m_EdgeRadius: 0
+--- !u!50 &3505755187623142792
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193565327823}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193572903664
 GameObject:
   m_ObjectHideFlags: 0
@@ -20548,9 +23188,10 @@ GameObject:
   - component: {fileID: 2896801193572903679}
   - component: {fileID: 2896801193572903677}
   - component: {fileID: 2896801193572903678}
+  - component: {fileID: 4817018729452845363}
   m_Layer: 0
   m_Name: bloco fogo 2D (78)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20643,6 +23284,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4274769, y: 1.410017}
   m_EdgeRadius: 0
+--- !u!50 &4817018729452845363
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193572903664}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193574085112
 GameObject:
   m_ObjectHideFlags: 0
@@ -20972,9 +23634,10 @@ GameObject:
   - component: {fileID: 2896801193608295545}
   - component: {fileID: 2896801193608295559}
   - component: {fileID: 2896801193608295544}
+  - component: {fileID: 1342928981495550200}
   m_Layer: 0
   m_Name: bloco fogo 2D (44)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21067,6 +23730,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4414039, y: 1.3952751}
   m_EdgeRadius: 0
+--- !u!50 &1342928981495550200
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193608295546}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193628067797
 GameObject:
   m_ObjectHideFlags: 0
@@ -21078,9 +23762,10 @@ GameObject:
   - component: {fileID: 2896801193628067796}
   - component: {fileID: 2896801193628067794}
   - component: {fileID: 2896801193628067795}
+  - component: {fileID: 3100448603255049337}
   m_Layer: 0
   m_Name: bloco fogo 2D (40)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21173,6 +23858,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4407332, y: 1.3920231}
   m_EdgeRadius: 0
+--- !u!50 &3100448603255049337
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193628067797}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193636797653
 GameObject:
   m_ObjectHideFlags: 0
@@ -21184,9 +23890,10 @@ GameObject:
   - component: {fileID: 2896801193636797652}
   - component: {fileID: 2896801193636797650}
   - component: {fileID: 2896801193636797651}
+  - component: {fileID: 880338930316009188}
   m_Layer: 0
   m_Name: bloco fogo 2D (57)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21279,6 +23986,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4414039, y: 1.3952751}
   m_EdgeRadius: 0
+--- !u!50 &880338930316009188
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193636797653}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193672962672
 GameObject:
   m_ObjectHideFlags: 0
@@ -21290,9 +24018,10 @@ GameObject:
   - component: {fileID: 2896801193672962687}
   - component: {fileID: 2896801193672962685}
   - component: {fileID: 2896801193672962686}
+  - component: {fileID: 4743738986604053388}
   m_Layer: 0
   m_Name: bloco fogo 2D (89)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21385,6 +24114,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4504819, y: 1.4017258}
   m_EdgeRadius: 0
+--- !u!50 &4743738986604053388
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193672962672}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193676127817
 GameObject:
   m_ObjectHideFlags: 0
@@ -21396,9 +24146,10 @@ GameObject:
   - component: {fileID: 2896801193676127816}
   - component: {fileID: 2896801193676127830}
   - component: {fileID: 2896801193676127831}
+  - component: {fileID: 5091318932180991838}
   m_Layer: 0
   m_Name: bloco fogo 2D (80)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21491,6 +24242,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4179363, y: 1.4156313}
   m_EdgeRadius: 0
+--- !u!50 &5091318932180991838
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193676127817}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193676768297
 GameObject:
   m_ObjectHideFlags: 0
@@ -21714,9 +24486,10 @@ GameObject:
   - component: {fileID: 2896801193689986832}
   - component: {fileID: 2896801193689986846}
   - component: {fileID: 2896801193689986847}
+  - component: {fileID: 4009052709521559783}
   m_Layer: 0
   m_Name: bloco fogo 2D (99)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21809,6 +24582,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &4009052709521559783
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193689986833}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193699927132
 GameObject:
   m_ObjectHideFlags: 0
@@ -21820,9 +24614,10 @@ GameObject:
   - component: {fileID: 2896801193699927131}
   - component: {fileID: 2896801193699927129}
   - component: {fileID: 2896801193699927130}
+  - component: {fileID: 7507533962756730751}
   m_Layer: 0
   m_Name: bloco fogo 2D (130)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21915,6 +24710,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4325376, y: 1.432538}
   m_EdgeRadius: 0
+--- !u!50 &7507533962756730751
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193699927132}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193700486602
 GameObject:
   m_ObjectHideFlags: 0
@@ -22456,9 +25272,10 @@ GameObject:
   - component: {fileID: 2896801193754439523}
   - component: {fileID: 2896801193754439521}
   - component: {fileID: 2896801193754439522}
+  - component: {fileID: 5269351700100397081}
   m_Layer: 0
   m_Name: bloco fogo 2D (14)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22551,6 +25368,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4325376, y: 1.432538}
   m_EdgeRadius: 0
+--- !u!50 &5269351700100397081
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193754439524}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193754514605
 GameObject:
   m_ObjectHideFlags: 0
@@ -22562,9 +25400,10 @@ GameObject:
   - component: {fileID: 2896801193754514604}
   - component: {fileID: 2896801193754514602}
   - component: {fileID: 2896801193754514603}
+  - component: {fileID: 6882844733336238651}
   m_Layer: 0
   m_Name: bloco fogo 2D (59)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22657,6 +25496,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4403112, y: 1.4042497}
   m_EdgeRadius: 0
+--- !u!50 &6882844733336238651
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193754514605}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193755462118
 GameObject:
   m_ObjectHideFlags: 0
@@ -22774,9 +25634,10 @@ GameObject:
   - component: {fileID: 2896801193772262163}
   - component: {fileID: 2896801193772262161}
   - component: {fileID: 2896801193772262162}
+  - component: {fileID: 8639293379785668869}
   m_Layer: 0
   m_Name: bloco fogo 2D (137)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22869,6 +25730,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4179363, y: 1.4156313}
   m_EdgeRadius: 0
+--- !u!50 &8639293379785668869
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193772262164}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193779527081
 GameObject:
   m_ObjectHideFlags: 0
@@ -22986,9 +25868,10 @@ GameObject:
   - component: {fileID: 2896801193781829094}
   - component: {fileID: 2896801193781829092}
   - component: {fileID: 2896801193781829093}
+  - component: {fileID: 3054182500529551470}
   m_Layer: 0
   m_Name: bloco fogo 2D (121)
-  m_TagString: Destruivel
+  m_TagString: Destrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23081,6 +25964,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4552133, y: 1.4062071}
   m_EdgeRadius: 0
+--- !u!50 &3054182500529551470
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896801193781829095}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2896801193834164502
 GameObject:
   m_ObjectHideFlags: 0

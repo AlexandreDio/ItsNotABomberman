@@ -13,9 +13,11 @@ GameObject:
   - component: {fileID: 271120255292209279}
   - component: {fileID: 4265766686658647296}
   - component: {fileID: 6702220167881035245}
+  - component: {fileID: 864612038334984383}
+  - component: {fileID: 4112460765846961421}
   m_Layer: 0
   m_Name: Explosao Agua
-  m_TagString: explosao
+  m_TagString: Indestrutivel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -113,6 +115,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3467a18cf46ef54eb1ec7d9534fb8cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Destrutivel: {fileID: 2896801192642862306, guid: 3a86331222359034da8b40d5404c23c2,
+    type: 3}
 --- !u!61 &6702220167881035245
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -123,7 +127,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.04, y: -0.13}
@@ -139,3 +143,58 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.85, y: 1.8}
   m_EdgeRadius: 0
+--- !u!114 &864612038334984383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3461122506795608725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SceneId:
+    m_Value: 0
+  m_AssetId:
+    i0: 0
+    i1: 0
+    i2: 0
+    i3: 0
+    i4: 0
+    i5: 0
+    i6: 0
+    i7: 0
+    i8: 0
+    i9: 0
+    i10: 0
+    i11: 0
+    i12: 0
+    i13: 0
+    i14: 0
+    i15: 0
+  m_ServerOnly: 0
+  m_LocalPlayerAuthority: 0
+--- !u!114 &4112460765846961421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3461122506795608725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1768714887, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_TransformSyncMode: 1
+  m_SendInterval: 0.1
+  m_SyncRotationAxis: 7
+  m_RotationSyncCompression: 0
+  m_SyncSpin: 0
+  m_MovementTheshold: 0.001
+  m_VelocityThreshold: 0.0001
+  m_SnapThreshold: 5
+  m_InterpolateRotation: 1
+  m_InterpolateMovement: 1
